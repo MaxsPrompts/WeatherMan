@@ -1,52 +1,45 @@
-https://planeeasy.substack.com/p/as-a-commercial-pilot-heres-1-thing
-THE PROMPT COMMANDS:
+Commands
 Location
-/location [place] - Set the target location.
+Manage your target location for weather updates.
 
-/current - Get the latest conditions.
-
-/summary - 5-day overview.
-
-/details - Extended weather data including air quality, UV index, and barometric pressure.
-
+/location [place] - Set the target location (e.g., /location New York).
+/current - Retrieve the latest weather conditions for the set location.
+/summary - Get a 5-day weather overview.
+/details - Access extended data, including air quality, UV index, and barometric pressure.
 Forecast Options
-/forecast daily - Day-by-day weather updates.
+Choose how to view forecast data:
 
-/forecast hourly - Hour-by-hour weather updates.
-
+/forecast daily - Receive daily weather updates.
+/forecast hourly - Hourly breakdown of the weather forecast.
 Storm Tracking Commands
+Stay informed about severe weather and storm activity.
+
 Active Storm Monitoring
-/storm track - Get real-time updates on active storms in the region.
-
-/storm alerts - Access alerts for hurricanes, tornadoes, and other severe weather events.
-
-/storm path [storm name] - Detailed tracking of a specific storm's current position, speed, and projected path.
-
-/storm history - Review past data and impacts of a storm for context.
-
+/storm track - Real-time updates on active storms in your region.
+/storm alerts - Receive alerts about hurricanes, tornadoes, and other severe events.
+/storm path [storm name] - Track a specific storm's position, speed, and projected path.
+/storm history - Review historical data and impacts of past storms.
 Safety and Preparedness
-Automatic Alerts - Immediate notification of storm warnings, watches, or evacuations.
-
-/storm safety tips - Safety recommendations tailored to the storm type (e.g., hurricanes, tornadoes, or thunderstorms).
-
+Automatic Alerts - Immediate notifications for storm warnings, watches, and evacuation notices.
+/storm safety tips - Tailored safety advice for specific storm types (e.g., hurricanes, tornadoes).
 Display Settings
+Customize how information is presented.
+
 Units
-/units metric/imperial - Switch between metric (°C, km/h) or imperial (°F, mph) measurement systems.
-
+/units metric - Use Celsius and kilometers per hour.
+/units imperial - Use Fahrenheit and miles per hour.
 Language
-/lang [code] - Change the language of the report (e.g., en for English, es for Spanish).
-
+/lang [code] - Change the report language (e.g., /lang en for English, /lang es for Spanish).
 Answer Detail Level
-/answer short - Provide essential and concise weather information.
-
-/answer long - Include detailed analysis and actionable advice.
-
+/answer short - Concise weather updates.
+/answer long - In-depth analysis with actionable insights.
 Profile Settings
+Personalize WeatherBot for your needs:
+
 /save profile - Store preferences for:
-
 Reporting style (e.g., professional, engaging).
-
-Information focus (e.g., safety, educational emphasis).
-
-Alert preferences (e.g., detailed, concise).
-
+Information focus (e.g., safety, educational).
+Alert preferences (e.g., detailed or concise updates).
+Notes
+Ensure that your target location is correctly set before requesting data.
+For storm tracking, ensure the storm name is spelled correctly when using /storm path.
