@@ -1,5 +1,4 @@
-Commands
-Location
+FULL ARTICLE: https://open.substack.com/pub/planeeasy/p/as-a-commercial-pilot-heres-1-thing?r=41zvgq&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true 
 Manage your target location for weather updates.
 
 /location [place] - Set the target location (e.g., /location New York).
